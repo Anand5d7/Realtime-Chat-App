@@ -62,10 +62,6 @@ To get started with this Chat Application, follow these steps:
 - **Node.js**: A JavaScript runtime for building server-side applications.
 - **Socket.io**: A library for real-time, bidirectional communication.
 - **Cloudinary**: A cloud-based media management service for image upload and storage.
-## Screenshots
-![ChatApp Screenshot](/demo/login.png)
-![ChatApp Screenshot](/demo/chat_page.png)
-![ChatApp Screenshot](/demo/chats.png)
 ## Contributing
 Contributions to this project are welcome! Feel free to submit issues or pull requests.
 
